@@ -1,0 +1,239 @@
+D:\ЛР ООП\2.17.10.01\1\bin\Debug\1.exe.config
+D:\ЛР ООП\2.17.10.01\1\bin\Debug\1.exe
+D:\ЛР ООП\2.17.10.01\1\bin\Debug\1.pdb
+D:\ЛР ООП\2.17.10.01\1\bin\Debug\Lib1.dll
+D:\ЛР ООП\2.17.10.01\1\bin\Debug\Lib1.pdb
+D:\ЛР ООП\2.17.10.01\1\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\ЛР ООП\2.17.10.01\1\obj\Debug\_1.frmMain.resources
+D:\ЛР ООП\2.17.10.01\1\obj\Debug\_1.Properties.Resources.resources
+D:\ЛР ООП\2.17.10.01\1\obj\Debug\2.csproj.GenerateResource.Cache
+D:\ЛР ООП\2.17.10.01\1\obj\Debug\1.exe
+D:\ЛР ООП\2.17.10.01\1\obj\Debug\1.pdb
+D:\Объектно ориентированое программирование\2.17.10.01\2.17.10.01\1\bin\Debug\1.exe.config
+D:\Объектно ориентированое программирование\2.17.10.01\2.17.10.01\1\obj\Debug\1.exe
+D:\Объектно ориентированое программирование\2.17.10.01\2.17.10.01\1\obj\Debug\1.pdb
+D:\Объектно ориентированое программирование\2.17.10.01\2.17.10.02\1\bin\Debug\1.exe.config
+D:\Объектно ориентированое программирование\2.17.10.01\2.17.10.02\1\obj\Debug\1.exe
+D:\Объектно ориентированое программирование\2.17.10.01\2.17.10.02\1\obj\Debug\1.pdb
+D:\ЛР ООП\2.17.10.02\1\bin\Debug\2.exe.config
+D:\ЛР ООП\2.17.10.02\1\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\ЛР ООП\2.17.10.02\1\obj\Debug\_1.frmMain.resources
+D:\ЛР ООП\2.17.10.02\1\obj\Debug\_2.Properties.Resources.resources
+D:\ЛР ООП\2.17.10.02\1\obj\Debug\2.csproj.GenerateResource.Cache
+D:\ЛР ООП\2.17.10.02\1\bin\Debug\2.exe
+D:\ЛР ООП\2.17.10.02\1\bin\Debug\2.pdb
+D:\ЛР ООП\2.17.10.02\1\bin\Debug\Lib1.dll
+D:\ЛР ООП\2.17.10.02\1\bin\Debug\Lib2.dll
+D:\ЛР ООП\2.17.10.02\1\bin\Debug\Lib1.pdb
+D:\ЛР ООП\2.17.10.02\1\bin\Debug\Lib2.pdb
+D:\ЛР ООП\2.17.10.02\1\obj\Debug\2.exe
+D:\ЛР ООП\2.17.10.02\1\obj\Debug\2.pdb
+D:\Рабочий стол\2.17.10.03\1\bin\Debug\2.exe.config
+D:\Рабочий стол\2.17.10.03\1\bin\Debug\2.exe
+D:\Рабочий стол\2.17.10.03\1\bin\Debug\2.pdb
+D:\Рабочий стол\2.17.10.03\1\bin\Debug\Lib1.dll
+D:\Рабочий стол\2.17.10.03\1\bin\Debug\Lib2.dll
+D:\Рабочий стол\2.17.10.03\1\bin\Debug\Lib1.pdb
+D:\Рабочий стол\2.17.10.03\1\bin\Debug\Lib2.pdb
+D:\Рабочий стол\2.17.10.03\1\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\2.17.10.03\1\obj\Debug\_1.frmMain.resources
+D:\Рабочий стол\2.17.10.03\1\obj\Debug\_2.Properties.Resources.resources
+D:\Рабочий стол\2.17.10.03\1\obj\Debug\2.csproj.GenerateResource.Cache
+D:\Рабочий стол\2.17.10.03\1\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\2.17.10.03\1\obj\Debug\2.exe
+D:\Рабочий стол\2.17.10.03\1\obj\Debug\2.pdb
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\obj\Debug\_1.frmMain.resources
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\obj\Debug\_2.Properties.Resources.resources
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\obj\Debug\2.csproj.GenerateResource.Cache
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\obj\Debug\2.exe
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\obj\Debug\2.pdb
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\bin\Debug\2.exe.config
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\bin\Debug\2.exe
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\bin\Debug\2.pdb
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\bin\Debug\Lib1.dll
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\bin\Debug\Lib2.dll
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\bin\Debug\Lib1.pdb
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\1\bin\Debug\Lib2.pdb
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\2.exe.config
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\2.exe
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\2.pdb
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\Lib1.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\Lib2.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\Lib1.pdb
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\Lib2.pdb
+D:\ЛР ООП\2.17.10.03\1\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\ЛР ООП\2.17.10.03\1\obj\Debug\_2.Properties.Resources.resources
+D:\ЛР ООП\2.17.10.03\1\obj\Debug\2.csproj.GenerateResource.Cache
+D:\ЛР ООП\2.17.10.03\1\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\ЛР ООП\2.17.10.03\1\obj\Debug\2.exe
+D:\ЛР ООП\2.17.10.03\1\obj\Debug\2.pdb
+D:\ЛР ООП\2.17.10.03\1\obj\Debug\_3.frmMain.resources
+D:\ЛР ООП\2.17.10.03\1\obj\Debug\_3.frmGraph.resources
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\NPlot.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\OxyPlot.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\OxyPlot.WindowsForms.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\ZedGraph.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\OxyPlot.pdb
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\OxyPlot.xml
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\OxyPlot.WindowsForms.xml
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\ZedGraph.xml
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\de\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\es\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\fr\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\hu\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\it\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\ja\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\pt\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\ru\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\sk\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\sv\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\tr\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\ЛР ООП\2.17.10.03\1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\2.exe.config
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\2.exe
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\2.pdb
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\Lib1.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\Lib2.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\NPlot.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\OxyPlot.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\ZedGraph.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\Lib1.pdb
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\Lib2.pdb
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\OxyPlot.pdb
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\OxyPlot.xml
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.xml
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\ZedGraph.xml
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\de\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\es\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\fr\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\hu\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\it\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\ja\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\pt\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\ru\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\sk\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\sv\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\tr\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\ЛР ООП\3.17.10.01\1\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\ЛР ООП\3.17.10.01\1\obj\Debug\_3.frmMain.resources
+D:\ЛР ООП\3.17.10.01\1\obj\Debug\_3.frmGraph.resources
+D:\ЛР ООП\3.17.10.01\1\obj\Debug\_2.Properties.Resources.resources
+D:\ЛР ООП\3.17.10.01\1\obj\Debug\2.csproj.GenerateResource.Cache
+D:\ЛР ООП\3.17.10.01\1\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\ЛР ООП\3.17.10.01\1\obj\Debug\2.exe
+D:\ЛР ООП\3.17.10.01\1\obj\Debug\2.pdb
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\2.exe.config
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\2.exe
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\2.pdb
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\Lib1.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\Lib2.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\OxyPlot.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\Lib1.pdb
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\Lib2.pdb
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\OxyPlot.pdb
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\OxyPlot.xml
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.xml
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\ZedGraph.xml
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\de\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\es\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\it\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\obj\Debug\_3.frmMain.resources
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\obj\Debug\_3.frmGraph.resources
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\obj\Debug\_2.Properties.Resources.resources
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\obj\Debug\2.csproj.GenerateResource.Cache
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\obj\Debug\2.exe
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\1\obj\Debug\2.pdb
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\2.exe.config
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\2.exe
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\2.pdb
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\Lib1.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\Lib2.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\OxyPlot.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\Lib1.pdb
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\Lib2.pdb
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\OxyPlot.pdb
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\OxyPlot.xml
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\ZedGraph.xml
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\_3.frmMain.resources
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\_3.frmGraph.resources
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\_2.Properties.Resources.resources
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\2.csproj.CopyComplete
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\2.exe
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\1\obj\Debug\2.pdb
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\2.exe.config
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\2.exe
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\2.pdb
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\Lib1.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\Lib2.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\OxyPlot.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\Lib1.pdb
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\Lib2.pdb
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\OxyPlot.pdb
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\OxyPlot.xml
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\ZedGraph.xml
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\_3.frmMain.resources
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\_3.frmGraph.resources
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\_2.Properties.Resources.resources
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\2.csproj.CopyComplete
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\2.exe
+C:\Users\ivane\Desktop\3.17.10.01\1\obj\Debug\2.pdb

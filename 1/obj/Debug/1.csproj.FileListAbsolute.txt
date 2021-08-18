@@ -1,0 +1,39 @@
+D:\Объектно ориентированное программирование\1\1\bin\Debug\1.exe.config
+D:\Объектно ориентированное программирование\1\1\bin\Debug\1.exe
+D:\Объектно ориентированное программирование\1\1\bin\Debug\1.pdb
+D:\Объектно ориентированное программирование\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+D:\Объектно ориентированное программирование\1\1\obj\Debug\_1.Form1.resources
+D:\Объектно ориентированное программирование\1\1\obj\Debug\_1.Properties.Resources.resources
+D:\Объектно ориентированное программирование\1\1\obj\Debug\1.csproj.GenerateResource.Cache
+D:\Объектно ориентированное программирование\1\1\obj\Debug\1.exe
+D:\Объектно ориентированное программирование\1\1\obj\Debug\1.pdb
+D:\Объектно ориентированное программирование\1\1\bin\Debug\Lib1.dll
+D:\Объектно ориентированное программирование\1\1\bin\Debug\Lib1.pdb
+D:\Рабочий стол\1\1\bin\Debug\1.exe.config
+D:\Рабочий стол\1\1\obj\Debug\1.exe
+D:\Рабочий стол\1\1\obj\Debug\1.pdb
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\bin\Debug\1.exe.config
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\obj\Debug\1.exe
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\obj\Debug\1.pdb
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\obj\Debug\_1.Properties.Resources.resources
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\obj\Debug\1.csproj.GenerateResource.Cache
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\bin\Debug\1.exe
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\bin\Debug\1.pdb
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\bin\Debug\Lib1.dll
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\bin\Debug\Lib1.pdb
+D:\Рабочий стол\ЛР ООП\1.17.09.02\1\obj\Debug\_1.frmMain.resources
+D:\ЛР ООП\1.17.09.02\1\bin\Debug\1.exe.config
+D:\ЛР ООП\1.17.09.02\1\obj\Debug\1.exe
+D:\ЛР ООП\1.17.09.02\1\obj\Debug\1.pdb
+D:\ЛР ООП\1.17.09.02\1\bin\Debug\1.exe
+D:\ЛР ООП\1.17.09.02\1\bin\Debug\1.pdb
+D:\ЛР ООП\1.17.09.02\1\bin\Debug\Lib1.dll
+D:\ЛР ООП\1.17.09.02\1\bin\Debug\Lib1.pdb
+D:\ЛР ООП\1.17.09.02\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+D:\ЛР ООП\1.17.09.02\1\obj\Debug\_1.frmMain.resources
+D:\ЛР ООП\1.17.09.02\1\obj\Debug\_1.Properties.Resources.resources
+D:\ЛР ООП\1.17.09.02\1\obj\Debug\1.csproj.GenerateResource.Cache
+D:\ЛР ООП\2.17.10.01\1\bin\Debug\1.exe.config
+D:\ЛР ООП\2.17.10.01\1\obj\Debug\1.exe
+D:\ЛР ООП\2.17.10.01\1\obj\Debug\1.pdb

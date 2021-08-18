@@ -1,0 +1,56 @@
+D:\Объектно ориентированное программирование\1\Lib1\bin\Debug\Lib1.dll
+D:\Объектно ориентированное программирование\1\Lib1\bin\Debug\Lib1.pdb
+D:\Объектно ориентированное программирование\1\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\Объектно ориентированное программирование\1\Lib1\obj\Debug\Lib1.dll
+D:\Объектно ориентированное программирование\1\Lib1\obj\Debug\Lib1.pdb
+D:\Рабочий стол\ЛР ООП\1.17.09.02\Lib1\bin\Debug\Lib1.dll
+D:\Рабочий стол\ЛР ООП\1.17.09.02\Lib1\bin\Debug\Lib1.pdb
+D:\Рабочий стол\ЛР ООП\1.17.09.02\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\ЛР ООП\1.17.09.02\Lib1\obj\Debug\Lib1.dll
+D:\Рабочий стол\ЛР ООП\1.17.09.02\Lib1\obj\Debug\Lib1.pdb
+D:\ЛР ООП\1.17.09.02\Lib1\bin\Debug\Lib1.dll
+D:\ЛР ООП\1.17.09.02\Lib1\bin\Debug\Lib1.pdb
+D:\ЛР ООП\1.17.09.02\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\ЛР ООП\1.17.09.02\Lib1\obj\Debug\Lib1.dll
+D:\ЛР ООП\1.17.09.02\Lib1\obj\Debug\Lib1.pdb
+D:\ЛР ООП\2.17.10.02\Lib1\bin\Debug\Lib1.dll
+D:\ЛР ООП\2.17.10.02\Lib1\bin\Debug\Lib1.pdb
+D:\ЛР ООП\2.17.10.02\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\ЛР ООП\2.17.10.02\Lib1\obj\Debug\Lib1.dll
+D:\ЛР ООП\2.17.10.02\Lib1\obj\Debug\Lib1.pdb
+D:\Рабочий стол\2.17.10.03\Lib1\bin\Debug\Lib1.dll
+D:\Рабочий стол\2.17.10.03\Lib1\bin\Debug\Lib1.pdb
+D:\Рабочий стол\2.17.10.03\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\2.17.10.03\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\2.17.10.03\Lib1\obj\Debug\Lib1.dll
+D:\Рабочий стол\2.17.10.03\Lib1\obj\Debug\Lib1.pdb
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\Lib1\bin\Debug\Lib1.dll
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\Lib1\bin\Debug\Lib1.pdb
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\Lib1\obj\Debug\Lib1.dll
+D:\Рабочий стол\Учёба\2 курс\ООП. ЛР. Лавров ВВ\ЛР 2\2.17.10.03\Lib1\obj\Debug\Lib1.pdb
+D:\ЛР ООП\2.17.10.03\Lib1\bin\Debug\Lib1.dll
+D:\ЛР ООП\2.17.10.03\Lib1\bin\Debug\Lib1.pdb
+D:\ЛР ООП\2.17.10.03\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\ЛР ООП\2.17.10.03\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+D:\ЛР ООП\2.17.10.03\Lib1\obj\Debug\Lib1.dll
+D:\ЛР ООП\2.17.10.03\Lib1\obj\Debug\Lib1.pdb
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\Lib1\bin\Debug\Lib1.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\Lib1\bin\Debug\Lib1.pdb
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\Lib1\obj\Debug\Lib1.dll
+D:\Объектно ориентированое программирование\3.17.10.01\3.17.10.01\Lib1\obj\Debug\Lib1.pdb
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\Lib1\bin\Debug\Lib1.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\Lib1\bin\Debug\Lib1.pdb
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\Lib1\obj\Debug\Lib1.csprojAssemblyReference.cache
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\Lib1\obj\Debug\Lib1.dll
+C:\Users\ivanescko\Desktop\хрень\3.17.10.01\Lib1\obj\Debug\Lib1.pdb
+C:\Users\ivane\Desktop\3.17.10.01\Lib1\bin\Debug\Lib1.dll
+C:\Users\ivane\Desktop\3.17.10.01\Lib1\bin\Debug\Lib1.pdb
+C:\Users\ivane\Desktop\3.17.10.01\Lib1\obj\Debug\Lib1.csprojAssemblyReference.cache
+C:\Users\ivane\Desktop\3.17.10.01\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+C:\Users\ivane\Desktop\3.17.10.01\Lib1\obj\Debug\Lib1.dll
+C:\Users\ivane\Desktop\3.17.10.01\Lib1\obj\Debug\Lib1.pdb
